@@ -13,7 +13,7 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/vishal-goswami-405046220/](https://www.linkedin.com/in/vishal-goswami-405046220/)
 
-- ⚡ More **I am nerd**
+- ⚡ More: **I am nerd**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
