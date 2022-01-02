@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Unity and WordPress development**
 
-- 👨‍💻 All of my projects are available at [https://github.com/VishalGoswami-ind?tab=repositories](https://github.com/VishalGoswami-ind?tab=repositories)
+- 👨‍💻 All of my projects are available at [https://github.com/MyTricks-code?tab=repositories](https://github.com/MyTricks-code?tab=repositories)
 
 - 📫 How to reach me **vishal0711goswami@gmail.com**
 
