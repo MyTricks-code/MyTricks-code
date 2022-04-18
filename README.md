@@ -1,7 +1,7 @@
 ![Red Orange Brushstroke Modern Artisan Wellness and Sports X-Frame Banner](https://user-images.githubusercontent.com/87699253/146637948-b31c3bf4-bf4c-4dcc-a4c6-5f1babe0d807.gif)
 
 <h1 align="center">Hi 👋, I'm Vishal Goswami</h1>
-<h3 align="center">Just Know to code somehow...</h3>
+<h3 align="center">Just Knows to code, somehow...</h3>
 
 - 👷🏻‍♀️ I’m currently working at [Manuscripts](https://www.manuscripts.tech)
 
